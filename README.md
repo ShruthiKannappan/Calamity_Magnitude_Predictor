@@ -1,0 +1,2 @@
+# Calamity_Magnitude_Predictor
+Calamity_Magnitude_Predictor
